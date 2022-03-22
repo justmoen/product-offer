@@ -1,7 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/product-offer-rest/src" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/product-offer-rest/tests" isTestSource="true" packagePrefix="App\Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/cache-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/runtime" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/var-exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/doctrine-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/doctrine/deprecations" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/dependency-injection" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/config" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/doctrine/doctrine-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/proxy-manager-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/doctrine/sql-formatter" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/maker-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/doctrine/persistence" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/stopwatch" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/flex" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/doctrine/migrations" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/friendsofphp/proxy-manager-lts" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/doctrine/doctrine-migrations-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/framework-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/polyfill-php81" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/dotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/laminas/laminas-code" />
+      <excludeFolder url="file://$MODULE_DIR$/product-offer-rest/vendor/composer" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
